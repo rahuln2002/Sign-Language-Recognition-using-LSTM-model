@@ -34,5 +34,7 @@ test/val: 78%
 
 
 ## Model Summary
+
+### LSTM Model
 ![Screenshot 2023-12-09 132837](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/ac2a79b4-dc30-4381-93a1-041bb9aba8e7)
 
