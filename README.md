@@ -43,13 +43,14 @@ The LSTM model is trained on a "sequential_8" model with 8 layers and 4 dense la
 ### ResNet
 The ResNet model is trained on a "model_4" model with 75 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 
-![Screenshot 2023-12-09 161734](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/0b5ecdbc-8cce-4b82-bd59-edf12e7dcfff)
+![Screenshot 2023-12-09 163200](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/1a1d80d3-7f6d-4bd7-9946-9a2d71ff7054)
 
-![Screenshot 2023-12-09 161744](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/31ce7cae-31ea-4896-8e48-b8e94cfe2926)
+![Screenshot 2023-12-09 163221](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/de672cf4-80e3-4c59-b8f9-8ec18a2aaa4b)
 
-![Screenshot 2023-12-09 161755](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/9477538c-dbe0-4e82-8ec5-d5f1cedbe766)
+![Screenshot 2023-12-09 163238](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/55c1d35d-737b-4402-bf6d-066dce86afe4)
 
-![Screenshot 2023-12-09 161807](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/1066e70a-73e1-4393-b8f8-484479e005f2)
+![Screenshot 2023-12-09 163257](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/ec3a5f19-1de1-47e2-91d0-c980b88015b5)
+
 
 ### VGG16
 The VGG16 model is trained on a "sequential_2" model with 29 layers and 3 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
