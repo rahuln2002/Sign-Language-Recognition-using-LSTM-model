@@ -41,7 +41,7 @@ The LSTM model is trained on a "sequential_8" model with 14 layers and 4 dense l
 ![Screenshot 2023-12-10 195007](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/9630fff4-609b-44eb-a42f-bfba33ecc460)
 
 ### ResNet
-The ResNet model is trained on a "model_4" model with 75 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
+The ResNet model is trained on a "model" model with 75 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 
 ![Screenshot 2023-12-09 163200](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/1a1d80d3-7f6d-4bd7-9946-9a2d71ff7054)
 
