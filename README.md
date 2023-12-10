@@ -22,9 +22,9 @@ Test Accuracy: 91.50%
 
 ### VGG16:
 
-Train Accuracy: 89.28%
+Train Accuracy: 88.88%
 
-Test Accuracy: 87.83%
+Test Accuracy: 83.33%
 
 ### ResNet:
 
