@@ -2,7 +2,7 @@
 
 The project “Sign-Language-Recognition-using-LSTM-model” is a deep learning model designed to recognize sign language gestures. It uses Long Short Term Memory (LSTM) neural networks for training and testing.
 
-The LSTM model is trained on a "sequential_8" model with 8 layers and 4 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
+The LSTM model is trained on a "sequential" model with 14 layers and 4 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 
 The project begins by using OpenCV with MediaPipe Holistic to identify key markers of the poser. The identified keypoints are then collected and stored to be trained on later.
 
@@ -16,29 +16,29 @@ The model in this project has been trained on a custom dataset. This dataset was
 
 ### LSTM:
 
-train accuracy: 96.19%
+Train Accuracy: 94.28%
 
-test/val accuracy: 90%
+Test Accuracy: 91.50%
 
 ### VGG16:
 
-Train: 89%
+Train Accuracy: 89.28%
 
-test/Val: 79%
+Test Accuracy: 87.83%
 
 ### ResNet:
 
-Train: 91%
+Train Accuracy: 87.43% 
 
-test/val: 78%
+Test Accuracy: 77.50%
 
 
 ## Model Summary
 
 ### LSTM Model
-The LSTM model is trained on a "sequential_8" model with 8 layers and 4 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
+The LSTM model is trained on a "sequential_8" model with 14 layers and 4 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 
-![Screenshot 2023-12-09 132837](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/ac2a79b4-dc30-4381-93a1-041bb9aba8e7)
+![Screenshot 2023-12-10 195007](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/9630fff4-609b-44eb-a42f-bfba33ecc460)
 
 ### ResNet
 The ResNet model is trained on a "model_4" model with 75 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
