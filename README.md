@@ -22,7 +22,7 @@ Test Accuracy: 91.50%
 
 ### VGG16:
 
-Train Accuracy: 88.88%
+Train Accuracy: 88.18%
 
 Test Accuracy: 83.33%
 
