@@ -36,12 +36,12 @@ Test Accuracy: 77.50%
 ## Model Summary
 
 ### LSTM Model
-The LSTM model is trained on a "sequential_8" model with 14 layers and 4 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
+The LSTM model is trained on a "sequential" model with 14 layers and 4 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 
 ![Screenshot 2023-12-10 195007](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/9630fff4-609b-44eb-a42f-bfba33ecc460)
 
 ### ResNet
-The ResNet model is trained on a "model" model with 75 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
+The ResNet model is trained on a "model" model with 18 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 ![Screenshot 2023-12-10 221602](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/8650fc2b-6e5a-4248-9530-4a92972a3a93)
 
 ![Screenshot 2023-12-10 221622](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/e0ae9dca-13c0-4db3-9d4e-77c9bc391665)
@@ -54,7 +54,7 @@ The ResNet model is trained on a "model" model with 75 layers and 2 dense layers
 
 
 ### VGG16
-The VGG16 model is trained on a "sequential" model with 29 layers and 3 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
+The VGG16 model is trained on a "sequential" model with 28 layers and 2 dense layers. The model is compiled with the ‘Adam’ optimizer, ‘categorical_crossentropy’ loss, and ‘accuracy’ metrics.
 
 ![Screenshot 2023-12-10 222048](https://github.com/rahuln2002/Sign-Language-Recognition-using-LSTM-model/assets/99525324/f89dcf60-1168-419f-8421-63b6602903df)
 
