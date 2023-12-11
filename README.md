@@ -12,6 +12,8 @@ This project aims to help children and adult with hearing loss.
 
 The model in this project has been trained on a custom dataset. This dataset was created and curated by us, and it includes various sign language gestures. Each gesture in the dataset is labeled as 'zero','one','two','three','four','five','six','seven','eight','nine'.
 
+##### Dataset link: https://drive.google.com/drive/folders/1KLhqu202FcyBK_Bd5DHOu-uyNdIWn2bA?usp=sharing
+
 ## Accuracy
 
 ### LSTM:
