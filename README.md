@@ -7,6 +7,7 @@ The LSTM model is trained on a "sequential" model with 14 layers and 4 dense lay
 The project begins by using OpenCV with MediaPipe Holistic to identify key markers of the poser. The identified keypoints are then collected and stored to be trained on later.
 
 This project aims to help children and adult with hearing loss.
+Collaborators: Rahul Nihalani, Devansh Mittal, Jai Vadula, Shwetank Thakur, Sandeepan Chakraborty.
 
 ## Dataset
 
